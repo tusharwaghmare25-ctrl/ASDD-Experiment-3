@@ -6,7 +6,7 @@ name = "Tushar"
 marks = 85
 
 print("Student Name:", name)
-print("Student Marks:", mark)
+print("Student Marks:", marks)
 
 if marks >= 40:
     print("Result: PASS")
